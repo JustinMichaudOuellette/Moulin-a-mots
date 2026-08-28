@@ -1,0 +1,14 @@
+out/
+.gradle/
+.idea/
+build/
+gradle/
+gradlew
+gradlew.bat
+*.db
+*.sql
+*.txt
+*.xz
+/local.properties
+.reasonix/*
+reasonix.toml

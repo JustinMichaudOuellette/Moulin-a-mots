@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="launcher_label">Moulin mots</string>
+    <string name="app_name">Moulin à mots</string>
+    <string name="random_word">Aléatoire</string>
+    <string name="open_drawer">Menu</string>
+    <string name="menu_back">Retour</string>
+    <string name="favorites_title">Favoris</string>
+    <string name="generator_title">Générateur</string>
+    <string name="about_title">À propos</string>
+    <string name="session_history_title">Historique</string>
+    <string name="more_options">Plus d\'options</string>
+    <string name="share">Partager</string>
+    <string name="add_favorite">Ajouter aux favoris</string>
+    <string name="remove_favorite">Retirer des favoris</string>
+    <string name="no_favorites">Aucun favori pour le moment</string>
+    <string name="exploration_title">Exploration</string>
+    <string name="prefix_label">Préfixe</string>
+    <string name="suffix_label">Suffixe</string>
+    <string name="exploration_input_prefix_placeholder">Entrez un préfixe&#8230;</string>
+    <string name="exploration_input_suffix_placeholder">Entrez un suffixe&#8230;</string>
+    <string name="load_more">Charger plus</string>
+    <string name="settings_title">Paramètres</string>
+    <string name="voice_selection_label">Voix</string>
+    <string name="temperature_label">Température (créativité)</string>
+    <string name="temperature_desc">Bas = prévisible, Haut = aléatoire</string>
+</resources>
